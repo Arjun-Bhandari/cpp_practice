@@ -1,4 +1,4 @@
-# C++ Learning Notes - Day 1
+# C++ Learning Notes
 
 ## C++ Features
 - **Fast & Efficient**: Compiled language, close to hardware
